@@ -1,0 +1,2 @@
+"numero_fattura","tipologia","importo","iva","id_cliente","data_fattura","numero_fornitore","numero_cliente","nome","cognome","anno_nascita","regione_residenza"
+1,"Pagamento","200","22",2,"2022-07-14",2213,2,"Luigi","Bros","1987","Japan"
